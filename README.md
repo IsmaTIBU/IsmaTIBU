@@ -27,7 +27,6 @@
 - Integrated **WhisperAI** for French/Spanish voice commands + real-time ball tracking.  
 - Hardware: Raspberry Pi, Arduino; Software: OpenCV, serial comms.  
 - [Github Link](https://github.com/IsmaTIBU/Mobot)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command)
 
 #### **Reinforcement Learning (Frozen Lake)**  
 - Implemented **Policy/Value Iteration & Q-Learning** from scratch (no `gym`).  
@@ -35,8 +34,7 @@
 - [Github Link](https://github.com/IsmaTIBU/Reinforcement-Learning)
 
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
-- Simulated **PD/PID, Nonlinear Decoupled Control** for joint trajectory tracking.
-- [Github Link](https://github.com/IsmaTIBU/Rob_Command) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
