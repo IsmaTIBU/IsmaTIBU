@@ -19,9 +19,9 @@
 #### (Explore more in-depth descriptions and visual showcases of my projects on my portfolio: [imonge.es](https://imonge.es)) 
 #### **PatotIA**  
 - PatotIA is a Flask API serving a trained AI model (**86.52% accuracy**) for robotic decision-making.  
-- Work still in progress, accuracy can be far more upgraded.
-
+- Work still in progress, accuracy can be far more upgraded.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU/PatotIA)  
 
 #### **DigiTwin**  
 - DigiTwin is a comprehensive digital twin of an RRR robot manipulator (Staubli RX160), enabling geometric, kinematic, and differential modeling along with 3D circular trajectory planning and simulation.
