@@ -7,11 +7,10 @@
 ### **Core Expertise**  
 | **Domain**       | **Technologies & Skills**                          |  
 |------------------|--------------------------------------------------|  
-| **Robotics**     | ROS, MATLAB-SIMULINK, Kinematic/Dynamic Modeling |  
-| **AI/ML**        | PyTorch, Tensorflow, WhisperAI, Reinforcement Learning       |  
-| **Computer Vision** | OpenCV, YOLO, Real-time Object Tracking       |  
-| **Backend**      | Python, Flask, API Design                        |  
-| **Simulation**   | Gazebo, Trajectory Generation, Control Systems   |  
+| **Robotics**     | ROS/ROS2, MATLAB-SIMULINK, Kinematic/Dynamic Modeling |  
+| **AI/ML**        | PyTorch, Tensorflow, Transformers, CodeT5, WhisperAI, Reinforcement Learning       |  
+| **Computer Vision** |OpenCV, YOLO, Real-time Object Tracking       |  
+| **Simulation**   | RViz, Gazebo, Trajectory Generation, Control Systems   |  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
