@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 [Your Name]  
 
-<!--
-**IsmaTIBU/IsmaTIBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Cloud Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+🌍 Based in **[Location]**  
+💡 **Expertise:** Backend Development, System Design, DevOps  
+📌 **Currently:** [Your Job] | [Learning X]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠️ Tech Stack**  
+| **Area**       | **Technologies**                          |  
+|---------------|------------------------------------------|  
+| **Backend**   | Python, Go, Java, Node.js                |  
+| **Cloud**     | AWS, GCP, Serverless, Terraform          |  
+| **Data**      | PostgreSQL, Kafka, Spark                 |  
+
+📫 **Get in touch:** [LinkedIn](#) | [Twitter](#)  
