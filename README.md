@@ -8,7 +8,7 @@
 | **Domain**       | **Technologies & Skills**                          |  
 |------------------|--------------------------------------------------|  
 | **Robotics**     | ROS, MATLAB-SIMULINK, Kinematic/Dynamic Modeling |  
-| **AI/ML**        | PyTorch, WhisperAI, Reinforcement Learning       |  
+| **AI/ML**        | PyTorch, Tensorflow, WhisperAI, Reinforcement Learning       |  
 | **Computer Vision** | OpenCV, YOLO, Real-time Object Tracking       |  
 | **Backend**      | Python, Flask, API Design                        |  
 | **Simulation**   | Gazebo, Trajectory Generation, Control Systems   |  
