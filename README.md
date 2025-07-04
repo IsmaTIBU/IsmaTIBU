@@ -24,9 +24,9 @@
 - [GitHub Link](https://github.com/IsmaTIBU/DigiTwin)  
 
 #### **MoBot - Autonomous Voice-Controlled Robot**  
-- Integrated **WhisperAI** for French/Spanish voice commands + real-time ball tracking.  
-- Hardware: Raspberry Pi, Arduino; Software: OpenCV, serial comms.  
-- [Github Link](https://github.com/IsmaTIBU/Mobot)
+##### MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Mobot)](https://github.com/IsmaTIBU/Mobot)
 
 #### **Reinforcement Learning (Frozen Lake)** 
 - This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.
