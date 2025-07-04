@@ -28,10 +28,8 @@
 - Hardware: Raspberry Pi, Arduino; Software: OpenCV, serial comms.  
 - [Github Link](https://github.com/IsmaTIBU/Mobot)
 
-#### **Reinforcement Learning (Frozen Lake)**  
-- Implemented **Policy/Value Iteration & Q-Learning** from scratch (no `gym`).  
-- Analysis of ε-greedy exploration vs. exploitation.
-- [Github Link](https://github.com/IsmaTIBU/Reinforcement-Learning)
+#### **Reinforcement Learning (Frozen Lake)** 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning)](https://github.com/IsmaTIBU/Reinforcement-Learning)
 
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command)
