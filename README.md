@@ -1,6 +1,7 @@
 # Hi, I'm Ismael MONGE ROUCHDI 
 **Robotics and AI/ML student | AI and Automation Enthusiast**  
-📍 Originally from **Zaragoza, Spain** but based in **Toulouse, France** | [Portfolio](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/) | [Email] (01ismaelmon@gmail.com)
+📍 Originally from **Zaragoza, Spain** but based in **Toulouse, France** | [Portfolio](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/) 
+📧 **E-mail:** 01ismaelmon@gmail.com
 
 ### **Core Expertise**  
 | **Domain**       | **Technologies & Skills**                          |  
@@ -35,3 +36,13 @@
 - MoBotSim is a simulation framework for mobile robots that integrates image-based object detection, natural language command interpretation, and virtual movement execution.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=MobotSim)](https://github.com/IsmaTIBU/MobotSim)
+
+#### **Reinforcement Learning (Frozen Lake)** 
+- This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning)](https://github.com/IsmaTIBU/Reinforcement-Learning)
+
+#### **RP Manipulator Control (MATLAB-SIMULINK)**  
+- This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command) 
