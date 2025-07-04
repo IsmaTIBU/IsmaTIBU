@@ -12,19 +12,19 @@
 | **Simulation**   | Gazebo, Trajectory Generation, Control Systems   |  
 
 ### **Highlighted Projects**  
-#### **PatotIA - AI web service assistant for calculations and 3D simulations**  
+#### **PatotIA**  
 - Built a Flask API serving a trained AI model (**86.52% accuracy**) for robotic decision-making.  
-- Tech: Python, PyTorch, CI/CD.
-- Work still in progress, accuracy can be a lot more upgraded 
-- [GitHub Link](https://github.com/IsmaTIBU/RobotAI)  
+- Work still in progress, accuracy can be far more upgraded
 
-#### **DigiTwin - Circular Trajectory Generation (RX160)**  
-- Designed RRR robot modeling & trajectory simulation using DH parameters.  
-- Features: MGD/MGI solvers, Jacobian analysis, circular path planning.  
-- [GitHub Link](https://github.com/IsmaTIBU/DigiTwin)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)
 
-#### **MoBot - Autonomous Voice-Controlled Robot**  
-##### MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
+#### **DigiTwin**  
+- DigiTwin is a comprehensive digital twin of an RRR robot manipulator (Staubli RX160), enabling geometric, kinematic, and differential modeling along with 3D circular trajectory planning and simulation.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=DigiTwin)](https://github.com/IsmaTIBU/DigiTwin)
+
+#### **MoBot**  
+- MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Mobot)](https://github.com/IsmaTIBU/Mobot)
 
