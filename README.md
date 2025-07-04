@@ -32,6 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning)](https://github.com/IsmaTIBU/Reinforcement-Learning)
 
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
+This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
