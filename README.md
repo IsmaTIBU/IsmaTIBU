@@ -37,8 +37,6 @@
 - Simulated **PD/PID, Nonlinear Decoupled Control** for joint trajectory tracking.
 - [Github Link](https://github.com/IsmaTIBU/Rob_Command) 
 
-### **📊 GitHub Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsmaTIBU&show_icons=true&theme=radical)](https://github.com/IsmaTIBU)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **📫 Let’s Connect!**  
