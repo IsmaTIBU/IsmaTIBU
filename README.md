@@ -1,6 +1,6 @@
 # Hi, I'm Ismael MONGE ROUCHDI 
 **Robotics and AI/ML student | AI and Automation Enthusiast**  
-📍 Originally from **Zaragoza, Spain** but based in **Toulouse, France** | [Portfolio](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/) | **Email:** [01ismaelmon@gmail.com](#)
+📍 Originally from **Zaragoza, Spain** but based in **Toulouse, France** | [Portfolio](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/) | [Email] (01ismaelmon@gmail.com)
 
 ### **Core Expertise**  
 | **Domain**       | **Technologies & Skills**                          |  
@@ -14,6 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **Highlighted Projects**  
+### If you wish to know more or see a more illustrative description of the projects check my [Portfolio](https://imonge.es) 
 #### **PatotIA**  
 - PatotIA is a Flask API serving a trained AI model (**86.52% accuracy**) for robotic decision-making.  
 - Work still in progress, accuracy can be far more upgraded.
