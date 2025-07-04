@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **Highlighted Projects**  
-### If you wish to know more or see a more illustrative description of the projects check my [Portfolio](https://imonge.es) 
+#### (If you wish to know more or see a more illustrative description of the projects check my portfolio in [imonge.es](https://imonge.es)) 
 #### **PatotIA**  
 - PatotIA is a Flask API serving a trained AI model (**86.52% accuracy**) for robotic decision-making.  
 - Work still in progress, accuracy can be far more upgraded.
