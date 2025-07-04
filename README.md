@@ -1,6 +1,6 @@
 # Hi, I'm Ismael MONGE ROUCHDI 
 **Robotics and AI/ML student | Automation Enthusiast**  
-📍 Originally from **Zaragoza, SPain** but based in **Toulouse, France** | 🌐 [Portfolio](https://imonge.es) | 📫 [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
+📍 Originally from **Zaragoza, Spain** but based in **Toulouse, France** | 🌐 [Portfolio](https://imonge.es) | 📫 [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
 
 ### **Core Expertise**  
 | **Domain**       | **Technologies & Skills**                          |  
@@ -40,4 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **📫 Let’s Connect!**  
-**Email:** [01ismaelmon@gmail.com@example.com](#)  
+**Email:** [01ismaelmon@gmail.com](#)  
