@@ -12,11 +12,6 @@
 | **Computer Vision** |OpenCV, YOLO, Real-time Object Tracking       |  
 | **Simulation**   | RViz, Gazebo, Trajectory Generation, Control Systems   |  
 
-## Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,pytorch,tensorflow,opencv,docker,git,linux" />
-</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **Highlighted Projects**  
