@@ -12,6 +12,11 @@
 | **Computer Vision** |OpenCV, YOLO, Real-time Object Tracking       |  
 | **Simulation**   | RViz, Gazebo, Trajectory Generation, Control Systems   |  
 
+## Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,pytorch,tensorflow,opencv,docker,git,linux" />
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
 ### **Highlighted Projects**  
@@ -40,23 +45,3 @@
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
 - This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command&cache_seconds=0)](https://github.com/IsmaTIBU/Rob_Command)
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaTIBU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaTIBU&theme=tokyonight" alt="IsmaTIBU" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsmaTIBU&theme=tokyonight&row=1&column=6" />
-</div>
-
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,pytorch,tensorflow,opencv,docker,git,linux" />
-</div>
