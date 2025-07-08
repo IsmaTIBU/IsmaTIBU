@@ -35,8 +35,8 @@
 
 #### **Reinforcement Learning (Frozen Lake)** 
 - This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning)](https://github.com/IsmaTIBU/Reinforcement-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning&cache_seconds=0)](https://github.com/IsmaTIBU/Reinforcement-Learning)
 
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
 - This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command)](https://github.com/IsmaTIBU/Rob_Command)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command&cache_seconds=0)](https://github.com/IsmaTIBU/Rob_Command)
