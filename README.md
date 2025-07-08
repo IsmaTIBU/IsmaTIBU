@@ -31,7 +31,7 @@
 
 #### **MobotSim**
 - MoBotSim is a simulation framework for mobile robots that integrates image-based object detection, natural language command interpretation, and virtual movement execution.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=MobotSim)](https://github.com/IsmaTIBU/MobotSim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=MobotSim&cache_seconds=0)](https://github.com/IsmaTIBU/MobotSim)
 
 #### **Reinforcement Learning (Frozen Lake)** 
 - This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.  
