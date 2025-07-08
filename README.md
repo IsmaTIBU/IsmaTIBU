@@ -39,4 +39,12 @@
 
 #### **RP Manipulator Control (MATLAB-SIMULINK)**  
 - This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command&cache_seconds=0)](https://github.com/IsmaTIBU/Rob_Command)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Rob_Command&cache_seconds=0)](https://github.com/IsmaTIBU/Rob_Command)  
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaTIBU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+![Metrics](https://metrics.lecoq.io/IsmaTIBU?template=classic&config.timezone=Europe%2FMadrid)
