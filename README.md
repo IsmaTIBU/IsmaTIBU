@@ -18,7 +18,7 @@
 (Explore more in-depth descriptions and visual showcases of my projects on my portfolio: [imonge.es](https://imonge.es)) 
 #### **PatotIA**  
 - PatotIA is a Flask API serving a trained AI model (**92.94% accuracy**) for robotic decision-making.  
-- Work still in progress, accuracy can be far more upgraded.  
+- Work still in progress, upgradeable accuracy.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)
 
 #### **DigiTwin**  
