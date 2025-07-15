@@ -33,6 +33,10 @@
 - MoBotSim is a simulation framework for mobile robots that integrates image-based object detection, natural language command interpretation, and virtual movement execution.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=MobotSim&cache_seconds=0)](https://github.com/IsmaTIBU/MobotSim)
 
+#### **LedType detection**
+- Computer vision system for detecting and classifying LEDs using OpenCV and YOLOv11. Achieves 99.5% accuracy with real-time processing and robust performance across varying lighting conditions. Features real-time detection, interactive HSV filtering, and automatic counting for industrial applications.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=LedType_detection&cache_seconds=0)](https://github.com/IsmaTIBU/LedType_detection)
+
 #### **Reinforcement Learning (Frozen Lake)** 
 - This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Reinforcement-Learning&cache_seconds=0)](https://github.com/IsmaTIBU/Reinforcement-Learning)
