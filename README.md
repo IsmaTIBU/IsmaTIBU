@@ -26,6 +26,11 @@
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![AI](https://img.shields.io/badge/AI-228B22)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Embedded_AI)](https://github.com/IsmaTIBU/Embedded_AI)
 
+#### **LedType detection**
+- Computer vision system for detecting and classifying LEDs using OpenCV and YOLOv11. Achieves 99.5% accuracy with real-time processing and robust performance across varying lighting conditions. Features real-time detection, interactive HSV filtering, and automatic counting for industrial applications.
+- ![YOLO](https://img.shields.io/badge/YOLO-33BBE5?logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=LedType_detection&cache_seconds=0)](https://github.com/IsmaTIBU/LedType_detection)
+
 #### **DigiTwin**  
 - DigiTwin is a comprehensive digital twin of an RRR robot manipulator (Staubli RX160), enabling geometric, kinematic, and differential modeling along with 3D circular trajectory planning and simulation.  
 - ![Robotics](https://img.shields.io/badge/Robotics-22314E?) ![Kinetics](https://img.shields.io/badge/Kinetics-8A2BE2?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
@@ -40,11 +45,6 @@
 - MoBotSim is a simulation framework for mobile robots that integrates image-based object detection, natural language command interpretation, and virtual movement execution.
 - ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=MobotSim&cache_seconds=0)](https://github.com/IsmaTIBU/MobotSim)
-
-#### **LedType detection**
-- Computer vision system for detecting and classifying LEDs using OpenCV and YOLOv11. Achieves 99.5% accuracy with real-time processing and robust performance across varying lighting conditions. Features real-time detection, interactive HSV filtering, and automatic counting for industrial applications.
-- ![YOLO](https://img.shields.io/badge/YOLO-33BBE5?logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=LedType_detection&cache_seconds=0)](https://github.com/IsmaTIBU/LedType_detection)
 
 #### **Reinforcement Learning (Frozen Lake)** 
 - This project implements and compares three fundamental reinforcement learning algorithms (Policy Iteration, Value Iteration, and ε-Greedy Q-Learning) to solve the Frozen Lake environment - a grid-world navigation problem where an agent must reach a goal while avoiding hazards.
