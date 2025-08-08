@@ -23,7 +23,7 @@
 
 #### **Embedded AI**
 - AI LED classification on an NXP 8MPLUS-BB board with NPU acceleration using TensorFlow Lite.
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![AI](https://img.shields.io/badge/AI-228B22)  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![AI](https://img.shields.io/badge/AI-228B22)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Embedded_AI)](https://github.com/IsmaTIBU/Embedded_AI)
 
 #### **DigiTwin**  
@@ -33,7 +33,7 @@
 
 #### **MoBot**  
 - MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
-- ![Arduino](https://img.shields.io/badge/Arduino-00979c?logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-c7053d?logo=raspberrypi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-373737?)  
+- ![Arduino](https://img.shields.io/badge/Arduino-00979c?logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-c7053d?logo=raspberrypi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![LiDAR](https://img.shields.io/badge/LiDAR-373737?)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Mobot)](https://github.com/IsmaTIBU/Mobot)
 
 #### **MobotSim**
