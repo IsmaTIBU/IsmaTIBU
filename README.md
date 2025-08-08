@@ -17,19 +17,23 @@
 ### **Highlighted Projects**  
 (Explore more in-depth descriptions and visual showcases of my projects on my portfolio: [imonge.es](https://imonge.es)) 
 #### **PatotIA**  
-- PatotIA is a Flask API serving a trained AI model (**92.94% accuracy**) for robotic decision-making.  
+- PatotIA is a Flask API serving a trained AI model (**92.94% accuracy**) for robotic decision-making.
+- ![LLM](https://img.shields.io/badge/LLM-FF1493?logo=Ollama&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white) ![CodeT5](https://img.shields.io/badge/CodeT5-1E90FF?) ![AI](https://img.shields.io/badge/AI-228B22?) ![Robotics](https://img.shields.io/badge/Robotics-22314E?) ![Kinetics](https://img.shields.io/badge/Kinetics-8A2BE2?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)
 
 #### **Embedded AI**
 - AI LED classification on an NXP 8MPLUS-BB board with NPU acceleration using TensorFlow Lite.
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![AI](https://img.shields.io/badge/AI-8A2BE2)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Embedded_AI)](https://github.com/IsmaTIBU/Embedded_AI)
 
 #### **DigiTwin**  
 - DigiTwin is a comprehensive digital twin of an RRR robot manipulator (Staubli RX160), enabling geometric, kinematic, and differential modeling along with 3D circular trajectory planning and simulation.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=DigiTwin)](https://github.com/IsmaTIBU/DigiTwin)
+- ![Robotics](https://img.shields.io/badge/Robotics-22314E?) ![Kinetics](https://img.shields.io/badge/Kinetics-8A2BE2?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=DigiTwin)](https://github.com/IsmaTIBU/DigiTwin)  
 
 #### **MoBot**  
-- MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.  
+- MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
+- ![Arduino](https://img.shields.io/badge/Arduino-00979c?logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-c7053d?logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-373737?)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Mobot)](https://github.com/IsmaTIBU/Mobot)
 
 #### **MobotSim**
