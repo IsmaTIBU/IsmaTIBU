@@ -33,7 +33,7 @@
 
 #### **MoBot**  
 - MoBot combines voice command interpretation and real-time computer vision to enable autonomous navigation in a mobile robot.
-- ![Arduino](https://img.shields.io/badge/Arduino-00979c?logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-c7053d?logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-373737?)  
+- ![Arduino](https://img.shields.io/badge/Arduino-00979c?logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-c7053d?logo=raspberrypi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-373737?)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Mobot)](https://github.com/IsmaTIBU/Mobot)
 
 #### **MobotSim**
@@ -43,7 +43,7 @@
 
 #### **LedType detection**
 - Computer vision system for detecting and classifying LEDs using OpenCV and YOLOv11. Achieves 99.5% accuracy with real-time processing and robust performance across varying lighting conditions. Features real-time detection, interactive HSV filtering, and automatic counting for industrial applications.
-- ![YOLO](https://img.shields.io/badge/YOLO-33BBE5?) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white)  
+- ![YOLO](https://img.shields.io/badge/YOLO-33BBE5?logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF8C00?logo=OpenCV&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=LedType_detection&cache_seconds=0)](https://github.com/IsmaTIBU/LedType_detection)
 
 #### **Reinforcement Learning (Frozen Lake)** 
