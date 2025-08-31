@@ -1,3 +1,14 @@
+<div align="right">
+  <a href="fr_README.md">
+    <img src="https://img.shields.io/badge/lang-fr-blue">
+  </a>
+</div>
+<div align="right">
+  <a href="es_README.md">
+    <img src="https://img.shields.io/badge/lang-es-red">
+  </a>
+</div>
+
 # Hi, I'm Ismael MONGE ROUCHDI 
 ## **Robotics and AI/ML student | AI and Automation Enthusiast**  
 📍 Originally from **Zaragoza, Spain** but currently based in **Toulouse, France**  
