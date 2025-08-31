@@ -23,7 +23,7 @@
 
 #### **Embedded AI**
 - AI LED classification on an NXP 8MPLUS-BB board with NPU acceleration using TensorFlow Lite.
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![AI](https://img.shields.io/badge/AI-228B22)  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FFFFFF?) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![AI](https://img.shields.io/badge/AI-228B22)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Embedded_AI)](https://github.com/IsmaTIBU/Embedded_AI)
 
 #### **LedType detection**
