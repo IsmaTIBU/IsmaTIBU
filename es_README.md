@@ -2,7 +2,7 @@
 ## **Estudiante de Robótica e IA/ML | Entusiasta de la IA y la Automatización**  
 📍 Originario de **Zaragoza, España** pero actualmente viviendo en **Toulouse, Francia**  
 🌐 **Portfolio:** [imonge.es](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
-📧 **E-mail:** [01ismaelmon@gmail.com](mailto:tuemail@ejemplo.com)
+📧 **E-mail:** [01ismaelmon@gmail.com](mailto:01ismaelmon@gmail.com)
 
 ### **Experiencia Principal**  
 | **Dominio**       | **Tecnologías y Habilidades**                          |  
