@@ -13,7 +13,7 @@
 ## **Robotics and AI/ML student | AI and Automation Enthusiast**  
 📍 Originally from **Zaragoza, Spain** but currently based in **Toulouse, France**  
 **Portfolio:** [imonge.es](https://imonge.es)  
-LinkedIn: [Ismael Monge Rouchdi](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
+**LinkedIn:** [Ismael Monge Rouchdi](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
 **E-mail:** [01ismaelmon@gmail.com](mailto:01ismaelmon@gmail.com)
 
 ### **Core Expertise**  
