@@ -1,8 +1,9 @@
 # Salut, je suis Ismael MONGE ROUCHDI 
 ## **Étudiant en Robotique et IA/ML | Passionné d'IA et d'Automatisation**  
 📍 Originaire de **Zaragoza, Espagne** mais actuellement basé à **Toulouse, France**  
-🌐 **Portfolio :** [imonge.es](https://imonge.es) | [LinkedIn](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
-📧 **E-mail :** [01ismaelmon@gmail.com](mailto:tuemail@ejemplo.com)
+**Portfolio :** [imonge.es](https://imonge.es)  
+**LinkedIn:** [Ismael Monge Rouchdi](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
+**E-mail :** [01ismaelmon@gmail.com](mailto:tuemail@ejemplo.com)
 
 ### **Expertise Principale**  
 | **Domaine**       | **Technologies et Compétences**                          |  
