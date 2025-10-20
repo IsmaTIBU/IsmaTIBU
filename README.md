@@ -28,15 +28,21 @@
 
 ### **Highlighted Projects**  
 (Explore more in-depth descriptions and visual showcases of my projects on my portfolio: [imonge.es](https://imonge.es)) 
-#### **PatotIA**  
-- PatotIA is a Flask API serving a trained AI model (**92.94% accuracy**) for robotic decision-making.
-- ![LLM](https://img.shields.io/badge/LLM-FF1493?logo=Ollama&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white) ![CodeT5](https://img.shields.io/badge/CodeT5-1E90FF?) ![AI](https://img.shields.io/badge/AI-228B22?) ![Robotics](https://img.shields.io/badge/Robotics-22314E?) ![Kinetics](https://img.shields.io/badge/Kinetics-8A2BE2?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)
+
+#### **3D Vision Quality Control**
+- RGB-D sensor-based quality control system using point cloud processing and ICP algorithm for automated defect detection in manufacturing. Achieves precise 3D object alignment and comparison against reference models to identify holes, deformations, and missing pieces.
+- ![CloudCompare](https://img.shields.io/badge/CloudCompare-4A90E2?) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![Point Cloud](https://img.shields.io/badge/Point_Cloud-6B4C9A?) ![ICP](https://img.shields.io/badge/ICP-FF6B6B?)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=TP_Percep3D)](https://github.com/IsmaTIBU/TP_Percep3D)
 
 #### **Embedded AI**
 - AI LED classification on an NXP 8MPLUS-BB board with NPU acceleration using TensorFlow Lite.
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FFFFFF?) ![Embedded](https://img.shields.io/badge/Embedded-00599C) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-33BBE5?) ![AI](https://img.shields.io/badge/AI-228B22)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=Embedded_AI)](https://github.com/IsmaTIBU/Embedded_AI)
+
+#### **PatotIA**  
+- PatotIA is a Flask API serving a trained AI model (**92.94% accuracy**) for robotic decision-making.
+- ![LLM](https://img.shields.io/badge/LLM-FF1493?logo=Ollama&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-E61F00?logo=PyTorch&logoColor=white) ![CodeT5](https://img.shields.io/badge/CodeT5-1E90FF?) ![AI](https://img.shields.io/badge/AI-228B22?) ![Robotics](https://img.shields.io/badge/Robotics-22314E?) ![Kinetics](https://img.shields.io/badge/Kinetics-8A2BE2?) ![Simulation](https://img.shields.io/badge/Simulation-2F4F4F?)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsmaTIBU&repo=PatotIA)](https://github.com/IsmaTIBU/PatotIA)  
 
 #### **LedType detection**
 - Computer vision system for detecting and classifying LEDs using OpenCV and YOLOv11. Achieves 99.5% accuracy with real-time processing and robust performance across varying lighting conditions. Features real-time detection, interactive HSV filtering, and automatic counting for industrial applications.
