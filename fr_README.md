@@ -1,5 +1,5 @@
 # Salut, je suis Ismael MONGE ROUCHDI 
-## **Étudiant en Robotique et IA/ML | Passionné d'IA et d'Automatisation**  
+## **Étudiant en Robotique et IA/ML**  
 📍 Originaire de **Zaragoza, Espagne** mais actuellement basé à **Toulouse, France**  
 **Portfolio :** [imonge.es](https://imonge.es)  
 **LinkedIn:** [Ismael Monge Rouchdi](https://www.linkedin.com/in/ismael-monge-rouchdi-aba771316/)  
