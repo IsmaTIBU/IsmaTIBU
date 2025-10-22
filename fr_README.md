@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaTIBU&layout=compact)](https://github.com/IsmaTIBU)  
 
-### **Projets Mis en Avant**  
+## **Projets Mis en Avant**  
 (Explorez des descriptions plus approfondies et des vitrines visuelles de mes projets sur mon portfolio : [imonge.es](https://imonge.es))  
 
 #### **Contrôle Qualité par Vision 3D**
